@@ -3,7 +3,7 @@ This repository contains code for facial recognition using openCV and python wit
 
 **Technology used :** -openCV (Opensource Computer Vision) -Python -tkinter GUI interface
 
-Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera.
+-- Here I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera.
 
 ### How it works :
 
